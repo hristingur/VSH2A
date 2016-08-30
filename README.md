@@ -1,2 +1,3 @@
 # VSH2A
-ný geymsla
+ný geymsla 
+test á local
