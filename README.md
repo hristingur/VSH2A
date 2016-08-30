@@ -1,2 +1,2 @@
 # VSH2A
-fyrir vsh2 
+ný geymsla
