@@ -6,3 +6,4 @@
 	mkdir býr til nýja möppu
 
 	
+ertyry
