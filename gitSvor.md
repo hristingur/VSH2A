@@ -13,3 +13,22 @@
 	git status  hvort að það sé eitthvað inni í geymslunni, repositoryinu.
 	git diff   sýnir hvað hefur breyst á milli commits
 	git checkout - skiptir um grein og updeitar files í möppunni
+    
+    3. Hver er munurinn á eftirfarandi git skipunum:
+	
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+
+
+4. Hvað er version control, hverjir eru helstu kostir við að nota GIT? gott að vinna saman, hægt að fara til baka ef villa er g erð
+
+
+5. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? einusinni fyrir hvern part kanski því þá er hægt að fara til baka þar sem villa var og breyta því.
+
+
+6. Hvernig eru Working directory, Staging area og Repository frábrugðin í GIT,
+   til hvers eru þau?
+
+
+7. Hvenær væri sniðugt að nota branches? 
