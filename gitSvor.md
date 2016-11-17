@@ -6,4 +6,10 @@
 	mkdir býr til nýja möppu
 
 	
-ertyry
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+
+	git clone   , Kópíar skjöl frá git síðu og færir yfir í current folder sem þú býrð til
+	git log   , Sýnir hvaða breytingar hafa verið gerðar, commits.
+	git status  hvort að það sé eitthvað inni í geymslunni, repositoryinu.
+	git diff   sýnir hvað hefur breyst á milli commits
+	git checkout - skiptir um grein og updeitar files í möppunni
