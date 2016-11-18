@@ -16,19 +16,18 @@
     
     3. Hver er munurinn á eftirfarandi git skipunum:
 	
-	a) git diff    ,  diff of what is changed but not staged
-	b) git diff --staged , diff of what is staged but not yet commited
-	c) git diff commit1 commit2
+	a) git diff    ,  sýnir hvað hefur breyst en ekki enn git addað
+	b) git diff --staged , sýnir hvað hefur verið git addað en ekki enn committað
+	c) git diff commit1 commit2  sýnir mismun tveggja files,
 
 
-4. Hvað er version control, hverjir eru helstu kostir við að nota GIT?Version control skráir niður all sem þú gerir og gerir þér kleyft að fara og sækja verkefnið eins og það var á ákveðnum tímapunkti og byrja að vinna í því þar td ef þú gerir fokkar upp. gott að vinna saman, hægt að fara til baka ef villa er g erð
+4. Hvað er version control, hverjir eru helstu kostir við að nota GIT?Version control skráir niður all sem þú gerir og gerir þér kleyft að fara og sækja verkefnið eins og það var á ákveðnum tímapunkti og byrja að vinna í því þar td ef þú gerir fokkar upp. gott að vinna saman, hægt að fara til baka ef villa er gerð
 
 
 5. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? einusinni fyrir hvern part kanski því þá er hægt að fara til baka þar sem villa var og breyta því.
 
 
 6. Hvernig eru Working directory, Staging area og Repository frábrugðin í GIT,
-   til hvers eru þau?
-
-
+   til hvers eru þau? Working directory er ein útgáfa af verkefninu þínu teknar úr git directory og sett á diskinn þinn ef þú villt breyta því.  Staging area er file, sem er í directory þinu og mun tekur niður upplýsingar hvað þú commitar næst 
+   
 7. Hvenær væri sniðugt að nota branches? Þegar maður fer að vinna í öðru verkefni.
