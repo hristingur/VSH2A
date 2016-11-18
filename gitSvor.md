@@ -16,12 +16,12 @@
     
     3. Hver er munurinn á eftirfarandi git skipunum:
 	
-	a) git diff 
-	b) git diff --staged 
+	a) git diff    ,  diff of what is changed but not staged
+	b) git diff --staged , diff of what is staged but not yet commited
 	c) git diff commit1 commit2
 
 
-4. Hvað er version control, hverjir eru helstu kostir við að nota GIT? gott að vinna saman, hægt að fara til baka ef villa er g erð
+4. Hvað er version control, hverjir eru helstu kostir við að nota GIT?Version control skráir niður all sem þú gerir og gerir þér kleyft að fara og sækja verkefnið eins og það var á ákveðnum tímapunkti og byrja að vinna í því þar td ef þú gerir fokkar upp. gott að vinna saman, hægt að fara til baka ef villa er g erð
 
 
 5. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? einusinni fyrir hvern part kanski því þá er hægt að fara til baka þar sem villa var og breyta því.
@@ -31,4 +31,4 @@
    til hvers eru þau?
 
 
-7. Hvenær væri sniðugt að nota branches? 
+7. Hvenær væri sniðugt að nota branches? Þegar maður fer að vinna í öðru verkefni.
